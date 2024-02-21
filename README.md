@@ -1,0 +1,1 @@
+This repository contains all the code for an untitled action-adventure game I was making around 2020. The sprites and sounds have been removed, but the code can be viewed by going to the scripts folder and opening the .gml files. 
